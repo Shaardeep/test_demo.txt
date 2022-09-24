@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAll Products - Medicare | Ecommerce website design</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css"> -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+</head>
+<body>
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="/image/medical-logo4.png" alt="Medicare" width="125px">
+                </div>
+                <nav>
+                    <ul>
+                        <li>
+                        <!-- <form action="" class="search-2">
+                        <input type="search" name="" placeholder="Search for medicine" class="search">
+                        <button class="btn-2" type="submit">Submit</button></form></li> -->
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Prodect</a></li>
+                        <li><a href="">About</a></li>
+                        <li><a href="">Contact</a></li>
+                        <li><a href="">Account</a></li>
+                    </ul>
+                </nav>
+               <a href=""> <img src="/image/icon-shop.png" alt="" width="30px" height="30px"></a>
+            </div>
+        </div>
+         <div class="small-container">
+
+            <div class="row row-2">
+                <h2>All Prodects</h2>
+                <select>
+                    <option> Default Shorting</option>
+                    <option> Short by price</option>
+                    <option> Short by popular</option>
+                    <option> Short by ratings</option>
+                    <option> Short by sale</option>
+                </select>
+            </div>
+
+             <div class="row">
+                 <div class="col-4">
+                     <img src="image/images (1).jfif" alt="cotton">
+                     <h4>Med+Guard Cotton <br> Balls 50 pcs</h4>
+                     <div class="ratings">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+                     </div>
+                     <p>Rs 230.00</p>
+                    </div>
+                 <div class="col-4">
+                     <img src="image/herbal-multivitamin-multimineral-syrup-250x250.jpg">
+                     <h4>Herbal Multivitamin<br>& Multimineral Syrup</h4>
+                     <div class="ratings">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+                     </div>
+                     <p>Rs 256.00</p>
+                    </div>
+                 <div class="col-4">
+                     <img src="image/images (2).jfif" alt="">
+                     <h4>Medical Cotton <br>50 pecs</h4>
+                     <div class="ratings">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+                     </div>
+                     <p>Rs 330.00</p>
+                    </div>
+                 <div class="col-4">
+                     <img src="image/images (4).jfif" alt="">
+                     <h4>Ayurvit <br>cough syrup</h4>
+                     <div class="ratings">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                        <i class="fa fa-star-o"></i>
+                     </div>
+                     <p>Rs 198.00</p>
+                    </div>
+             </div>
+             <div class="row">
+                <div class="col-4">
+                    <img src="image/51RdArj2AJL._SY450_.jpg" alt="cotton">
+                    <h4>Med+Guard Cotton <br> Balls 50 pcs</h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 290.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/200-vitakriti-syrup-multivitamin-ayukriti-herbals-original-imafzzstfbv9k3dr.jpeg">
+                    <h4>vitakriti syrup<br>& Multimineral </h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 262.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/calcium-tablet-500x500.jpg" alt="">
+                    <h4>calcium tablet <br></h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 40.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/clip_500mg_tablet_10_s_0.jpg" alt="">
+                    <h4>tranexamic acid <br></h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-half-o"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 50.00</p>
+                   </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <img src="image/aldrota-500x500.jpg" alt="cotton">
+                    <h4>Aldroda <br>injection</h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 155.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/download.jfif">
+                    <h4>Torsemide tablet<br></h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 122.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/dro0002_1.webp" alt="">
+                    <h4>Drotine injection<br></h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 330.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/images (5).jfif" alt="">
+                    <h4>Care Multivitamin <br> syrup</h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-half-o"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 260.00</p>
+                   </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <img src="image/drotaverin-hydrochloride-injection-250x250.jpg" alt="cotton">
+                    <h4>Med+Guard Cotton <br> Balls 50 pcs</h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 230.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/images.jfif">
+                    <h4>Herbal Multivitamin<br>& Multimineral Syrup</h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 256.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/iron-tablet-500x500.jfif" alt="">
+                    <h4>Medical Cotton <br>50 pecs</h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 330.00</p>
+                   </div>
+                <div class="col-4">
+                    <img src="image/lo_50mg_tablet_10_s_0.jpg" alt="">
+                    <h4>Ayurvit <br>cough syrup</h4>
+                    <div class="ratings">
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star"></i>
+                       <i class="fa fa-star-half-o"></i>
+                       <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>Rs 198.00</p>
+                   </div>
+            </div>
+                   <div class="page-btn">
+                       <span>1</span>
+                       <span>2</span>
+                       <span>3</span>
+                       <span>4</span>
+                       <span>&#8594;</span>
+                   </div>
+            </div>
+             
+         <!----------footer--------->
+
+         <div class="footer">
+             <div class="container">
+                 <div class="row">
+                     <div class="footer-col-1">
+                         <h3>Downlod Our App</h3>
+                         <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p> -->
+                         <div class="app-logo">
+                             <img src="/image/play-store.jpg" alt="">
+                             <img src="/image/app-store.jpg" alt="">
+                         </div>
+                     </div>
+                     <div class="footer-col-2">
+                        <img src="/image/logo-main.jpg" alt="">
+                        <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> -->
+                        </p>
+                    </div>
+                    <div class="footer-col-3">
+                        <h3>Useful Links</h3>
+                        <ul>
+                            <li>Coupons</li>
+                            <li>Blog Post</li>
+                            <li>Return Policy</li>
+                            <li>Join Affiliate</li>
+                        </ul>
+                    </div>
+                    <div class="footer-col-3">
+                        <h3>Follow Us</h3>
+                        <ul>
+                            <li>Facebook</li>
+                            <li>Twitter</li>
+                            <li>Instagram</li>
+                            <li>Youtube</li>
+                        </ul>
+                    </div>
+                 </div>
+                 <hr>
+                 <p class="copyright">Copyright 2022</p>
+             </div>
+         </div>
+</body>
+</html>
